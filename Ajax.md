@@ -39,6 +39,7 @@ public class Servlet2 extends HttpServlet {
 **Ajax工作原理**
 
 <img src="https://shopping-mlk.oss-cn-beijing.aliyuncs.com/JavaNote/Ajax/Ajax%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86.jpg"  >
+
 ## 3、JQuery框架的Ajax
 使用此方法的条件：需要导入JQuery的JS文件
 **原始的Ajax请求**
